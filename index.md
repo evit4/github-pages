@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome.
 ---
+This is a trial site. AN initial testing.
 
